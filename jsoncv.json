@@ -1,0 +1,147 @@
+{
+    "basics": {
+        "name": “Daravath Akash”,
+        "label": "Student",
+        "picture": "https://",
+        "email": "2021kucp1125@iiitkota.ac.in",
+        "phone": "+919381947201”,
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development.",
+        "location": {
+            "address": “Mahabubabad”,
+            "postalCode": “506101”,
+            "city": “warangal”,
+            "countryCode": " India",
+            "region": “Telangana”
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": “daravathakash“,
+                "url": "https://www.twitter.com/daravathakash”
+            },
+            {
+                "network": "Github",
+                "username": “daravath akash”,
+                "url": "https://www.github.com/daravathakash”
+            },
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": “akash_daravath”,
+                "url": "https://instagram.com/akash_daravath”
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "IIITians Network",
+            "position": "Web Developer",
+            "website": "https://iiitiansnetwork.com",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the first release of IIITians Network Website"
+        },
+        {
+            "company": "IIIT Kota",
+            "position": "Web Developer",
+            "website": "https://iiitkota.ac.in",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the offical website of IIIT Kota."
+        },
+        {
+            "company": "e-Learning And Data Analytics Lab",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": "Worked as a web developer for creating the Website of e-Learning And Data Analytics Lab, IIIT Kota."
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "IIIT Kota Website",
+            "details": "Build IIIT Kota Website Using CSS.”,
+            "link": "https://iiitkota.ac.in/"
+        },
+        {
+            "title": "",
+            "details": ".",
+            "link": ""
+        },
+        {
+            "title": "Crypto & Stock Prediction Whatsapp ChatBot",
+            "details": "Predicting Stock price via Whatsapp Chatbot,",
+            "link": "https://github.com/thegauravparmar/Stock_Crypto_Whatsapp_Bot"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": “Intermediate”,
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "Node",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                "Guitar"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                “Cricket”,
+                "Badminton"
+            ]
+        }
+    ]
+}
